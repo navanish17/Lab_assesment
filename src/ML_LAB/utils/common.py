@@ -1,7 +1,7 @@
 import os
 from box.exceptions import BoxValueError
 import yaml
-from Wine_prediction_e2e import logger
+from ML_LAB import logger
 import json
 import joblib
 from ensure import ensure_annotations

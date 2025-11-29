@@ -9,7 +9,7 @@ import pandas as pd
 from ML_LAB.pipeline.prediction import PredictionPipeline
 
 st.set_page_config(page_title="Hotel Booking Prediction", layout="wide")
-st.title("🏨 Hotel Booking Cancellation Predictor")
+st.title("🏨 Hotel Booking Cancellation Predictor - LIVE ")
 
 # Form for User Input
 with st.form("prediction_form"):

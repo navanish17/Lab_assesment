@@ -7,3 +7,8 @@
 [2025-11-29 00:32:36,726: INFO: common: yaml file: schema.yaml loaded successfully]
 [2025-11-29 00:32:36,727: INFO: common: created directory at: artifacts]
 [2025-11-29 00:32:36,728: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-11-29 00:43:38,916: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-11-29 00:43:38,917: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-11-29 00:43:38,919: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-11-29 00:43:38,920: INFO: common: created directory at: artifacts]
+[2025-11-29 00:43:38,922: INFO: common: created directory at: artifacts/data_validation]
